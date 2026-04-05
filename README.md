@@ -18,3 +18,10 @@ Please read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute
 
 ## Algorithms
 Our [directory](DIRECTORY.md) has the full list of applications.
+
+## 📘 Beginner Note
+
+This repository contains a collection of algorithms implemented in Java.  
+Each implementation is designed to help beginners understand core concepts easily.
+
+👉 Tip: Try running and modifying the code to improve your understanding.
